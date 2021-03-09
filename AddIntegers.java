@@ -4,7 +4,7 @@ public class AddIntegers {
 
       //changed with this comment
 
-        int first = 15;
+        int first = 10;
         int second = 25;
 
         System.out.println("Enter two numbers: " + first + " " + second);
